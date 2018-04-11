@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadPdf</string>
+    <string name="openPDF">打开PDF</string>
+</resources>
